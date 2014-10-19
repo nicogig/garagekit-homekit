@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Nico/Desktop/Garage/app/src/main/res/values-it/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Impostazioni</string>
+    <string name="app_name">Garage</string>
+    <string name="cmdsent">Comando inviato a Garage</string>
+    <string name="garageswitch">Apri/Chiudi Garage</string>
+    <string name="hello_world">Ciao mondo!</string>
+    <string name="homegarage">Esterni</string>
+    <string name="info">INFORMAZIONI SU PROJECT GARAGE</string>
+    <string name="inside">Interni</string>
+    <string name="mobilewarn">Garage potrebbe non funzionare con la rete 3G.</string>
+    <string name="notconnected">Questa funzione è disabilitata o non è connessa a questo Homekit.</string>
+    <string name="nowcontrolling">STAI CONTROLLANDO</string>
+    <string name="outside">Esterni</string>
+    <string name="projectgarageinfos">Project Garage è costruito su fondamenta Open Source, come Arduino. App creata da Nicola Gigante.</string>
+    <string name="title_activity_choose">Scegli</string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_notavailable">Notavailable</string>
+    <string name="wificompliant">Project Garage uses Wi-Fi Compliant Standards and is part of Project Home.</string>
+    <string name="wifineed">Devi avere una connessione attiva per usare Garage.</string>
+    <string name="wifisatisfied">Sei connesso in Wi-Fi.</string>
+
+</resources>

@@ -1,0 +1,151 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:background="@drawable/bg"
+    tools:context="nicolagigante.garage.Main"
+    android:id="@+id/activity_main2">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="54dp"
+        android:id="@+id/imageView2"
+        android:src="#f0f0f0"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/textView4"
+        android:layout_alignEnd="@+id/textView4" />
+
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:id="@+id/button"
+        android:background="@drawable/actionbutton"
+        android:gravity="center_vertical|center_horizontal"
+        android:fontFamily="sans-serif"
+        android:textColor="#FFFFFF"
+        android:layout_alignBottom="@+id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nowcontrolling"
+        android:fontFamily="sans-serif"
+        android:id="@+id/textView2"
+        android:textColor="#FFFFFF"
+        android:layout_below="@+id/imageView"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignStart="@+id/textView"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/homegarage"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/textView2"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:textColor="#ffffff"
+        android:textSize="30dp"
+        android:layout_marginTop="5dp" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:id="@+id/imageViewWifi"
+        android:layout_alignTop="@+id/textView4"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text=""
+        android:id="@+id/textView4"
+        android:gravity="center_vertical"
+        android:textColor="#ffffff"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toRightOf="@+id/imageViewWifi"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="54dp"
+        android:id="@+id/imageView"
+        android:src="#0d8c68"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:id="@+id/textView"
+        android:textColor="#ffffffff"
+        android:textSize="30dp"
+        android:fontFamily="sans-serif-light"
+        android:typeface="normal"
+        android:gravity="center_vertical"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginLeft="5dp" />
+
+    <ImageButton
+        android:layout_width="54dp"
+        android:layout_height="54dp"
+        android:onClick="Hamburger"
+        android:id="@+id/imageButton2"
+        android:background="@drawable/hamburgeractive"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="54dp"
+        android:layout_height="54dp"
+        android:id="@+id/button2"
+        android:background="@drawable/activenoconn"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/button"
+        android:layout_marginRight="25dp"
+        android:onClick="Notconnected" />
+
+    <Button
+        android:layout_width="54dp"
+        android:layout_height="54dp"
+        android:background="@drawable/activenoconn"
+        android:id="@+id/button3"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/button"
+        android:layout_marginLeft="25dp"
+        android:onClick="Notconnected"/>
+
+    <Button
+        android:layout_width="54dp"
+        android:layout_height="54dp"
+        android:id="@+id/button4"
+        android:background="@drawable/activenoconn"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="Notconnected"/>
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Nico/Desktop/Garage/app/src/main/res/layout/activity_main2.xml -->

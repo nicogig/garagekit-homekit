@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    android:background="#455a64"
+    tools:context="nicolagigante.garage.Choose"
+    android:id="@+id/activity_settings">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="54dp"
+        android:id="@+id/imageView2"
+        android:src="#f0f0f0"
+        android:layout_alignParentBottom="true" />
+
+
+
+    <Button
+        android:layout_width="54dp"
+        android:background="@drawable/backactive"
+        android:layout_height="54dp"
+        android:id="@+id/button"
+        android:onClick="BacktoMain"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/activepicker"
+        android:onClick="Outside"
+        android:text="@string/outside"
+        android:fontFamily="sans-serif-light"
+        android:textSize="30dp"
+        android:id="@+id/button2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_margin="10dp" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/activepicker"
+        android:onClick="Inside"
+        android:text="@string/inside"
+        android:fontFamily="sans-serif-light"
+        android:textSize="30dp"
+        android:id="@+id/button3"
+        android:layout_below="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp" />
+</RelativeLayout>
+<!-- From: file:/C:/Users/Nico/Desktop/Garage/app/src/main/res/layout/activity_choose.xml -->
