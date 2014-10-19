@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Nico\Desktop\Garage\app\src\main\res" >
+            <file
+                name="backgarage"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\backgarage.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\button.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="buttonimage"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\buttonimage.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="buttontext"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\buttontext.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="garageblur"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\garageblur.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="garagesplash"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\garagesplash.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="info"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\info.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="projectgarage"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\projectgarage.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="wificompliant"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\wificompliant.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="action_search"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-hdpi\action_search.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-hdpi\drawer_shadow.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-hdpi\ic_drawer.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="action_search"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-mdpi\action_search.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-mdpi\drawer_shadow.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-mdpi\ic_drawer.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="action_search"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-xhdpi\action_search.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-xhdpi\drawer_shadow.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-xhdpi\ic_drawer.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable-xxxhdpi\ic_launcher.png"
+                qualifiers="xxxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main2"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\layout\activity_main2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_splash"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\layout\activity_splash.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="info"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\menu\info.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="splash"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\menu\splash.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="nowcontrolling" >NOW CONTROLLING
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_notavailable" >Notavailable
+                </string>
+                <string name="title_activity_notconnected" >Notconnected
+                </string>
+                <string name="wifineed" >You need an active connection to use Garage.
+                </string>
+                <string name="title_activity_choose" >Choose
+                </string>
+                <string name="inside" >Inside
+                </string>
+                <string name="info" >INFOS ON PROJECT GARAGE
+                </string>
+                <string name="wificompliant" >Project Garage uses Wi-Fi Compliant Standards and is part of Project Home.
+                </string>
+                <string name="cmdsent" >Command sent to Garage
+                </string>
+                <string name="mobilewarn" >Garage might not work on a 3G connection.
+                </string>
+                <string name="garageswitch" >Open/Close Garage
+                </string>
+                <string name="wifisatisfied" >You\'re connected to a Wi-Fi network.
+                </string>
+                <string name="title_activity_info" >Info
+                </string>
+                <string name="notconnected" >This feature is disabled or not connected to this Homekit.
+                </string>
+                <string name="app_name" >Garage
+                </string>
+                <string name="projectgarageinfos" >Project Garage is built upon Open Source Technologies, such as Arduino. Garage App made by Nicola Gigante.
+                </string>
+                <string name="homegarage" >Outside
+                </string>
+                <string name="outside" >Outside
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\values-it\strings.xml"
+                qualifiers="it" >
+                <string name="title_activity_choose" >Scegli
+                </string>
+                <string name="notconnected" >Questa funzione è disabilitata o non è connessa a questo Homekit.
+                </string>
+                <string name="cmdsent" >Comando inviato a Garage
+                </string>
+                <string name="action_settings" >Impostazioni
+                </string>
+                <string name="projectgarageinfos" >Project Garage è costruito su fondamenta Open Source, come Arduino. App creata da Nicola Gigante.
+                </string>
+                <string name="app_name" >Garage
+                </string>
+                <string name="title_activity_notconnected" >Notconnected
+                </string>
+                <string name="wificompliant" >Project Garage uses Wi-Fi Compliant Standards and is part of Project Home.
+                </string>
+                <string name="title_activity_notavailable" >Notavailable
+                </string>
+                <string name="hello_world" >Ciao mondo!
+                </string>
+                <string name="wifineed" >Devi avere una connessione attiva per usare Garage.
+                </string>
+                <string name="title_activity_info" >Info
+                </string>
+                <string name="mobilewarn" >Garage potrebbe non funzionare con la rete 3G.
+                </string>
+                <string name="inside" >Interni
+                </string>
+                <string name="nowcontrolling" >STAI CONTROLLANDO
+                </string>
+                <string name="wifisatisfied" >Sei connesso in Wi-Fi.
+                </string>
+                <string name="outside" >Esterni
+                </string>
+                <string name="homegarage" >Esterni
+                </string>
+                <string name="garageswitch" >Apri/Chiudi Garage
+                </string>
+                <string name="info" >INFORMAZIONI SU PROJECT GARAGE
+                </string>
+            </file>
+            <file
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="garagebutton_pressed"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\garagebutton_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="garagebutton_hovered"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\garagebutton_hovered.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="layout_animation_row_left_slide"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\layout_animation_row_left_slide.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="push_up_out"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\push_up_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="zoom_exit"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\zoom_exit.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="hamburger_pressed"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\hamburger_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="layout_grid_fade"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\layout_grid_fade.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="garagebutton"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\garagebutton.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="hyperspace_out"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\hyperspace_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="hamburger"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\hamburger.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="layout_random_fade"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\layout_random_fade.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="layout_wave_scale"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\layout_wave_scale.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="animator_set"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\animator_set.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="back_pressed"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\back_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="slide_left"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\slide_left.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="hamburger_hovered"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\hamburger_hovered.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="fade"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\fade.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="scale"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\scale.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="dock"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\dock.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="hyperspace_in"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\hyperspace_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="push_left_in"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\push_left_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="push_up_in"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\push_up_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="zoom_enter"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\zoom_enter.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="bg"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\bg.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="color_animator"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\color_animator.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="shake"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\shake.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="object_animator"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\object_animator.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="choose"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\menu\choose.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="slide_right"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\slide_right.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="layout_animation_table"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\layout_animation_table.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="layout_bottom_to_top_slide"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\layout_bottom_to_top_slide.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="activity_choose"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\layout\activity_choose.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="actionbutton"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\actionbutton.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="layout_grid_inverse_fade"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\layout_grid_inverse_fade.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="back"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\back.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="push_left_out"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\push_left_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="cycle_7"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\cycle_7.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="hold"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\hold.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_top_to_bottom"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\slide_top_to_bottom.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="backactive"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\backactive.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="back_hovered"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\back_hovered.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="animator"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\animator.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="layout_animation_row_right_slide"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\layout_animation_row_right_slide.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="wave_scale"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\wave_scale.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="hamburgeractive"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\hamburgeractive.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pull_in_left"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\pull_in_left.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="push_out_right"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\push_out_right.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="push_out_left"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\push_out_left.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="pull_in_right"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\anim\pull_in_right.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="material3g"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\material3g.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="materialwifi"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\materialwifi.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="materialwifidisconnected"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\materialwifidisconnected.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pickercard_pressed"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\pickercard_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="geartesting"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\geartesting.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="activepicker"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\activepicker.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="heyyou"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\heyyou.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="geartesting_pressed"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\geartesting_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="activity_notavailable"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\layout\activity_notavailable.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pickercard_hovered"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\pickercard_hovered.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pickercard"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\pickercard.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="testinggear"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\testinggear.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="geartesting_hovered"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\geartesting_hovered.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="notavailable"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\menu\notavailable.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="noconn_pressed"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\noconn_pressed.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="notconnected"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\menu\notconnected.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="what"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\what.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="noconn_hovered"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\noconn_hovered.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="hamburger_old"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\hamburger_old.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="noconn"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\noconn.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="activenoconn"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\activenoconn.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="hamburger_hovered_old"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\hamburger_hovered_old.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="hamburger_pressed_old"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\drawable\hamburger_pressed_old.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="activity_notconnected"
+                path="C:\Users\Nico\Desktop\Garage\app\src\main\res\layout\activity_notconnected.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="C:\Users\Nico\Desktop\Garage\app\build\generated\res\rs\release" />
+        <source path="C:\Users\Nico\Desktop\Garage\app\build\generated\res\generated\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\Nico\Desktop\Garage\app\src\release\res" />
+    </dataSet>
+
+</merger>
