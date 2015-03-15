@@ -1,0 +1,1 @@
+An app that communicates with a specifically programmed Arduino device to send electrical impulses to another device (a garage, as an example).
